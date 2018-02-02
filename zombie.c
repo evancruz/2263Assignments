@@ -9,7 +9,6 @@ int main() {
   int n;
   int r;
   int c;
-  char map;
 
   scanf("%d", &n);
   r = n;
